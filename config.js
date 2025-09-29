@@ -26,12 +26,13 @@ window.Config = {
     },    
     {
       text: 'GitHub',
-      url: 'https://github.com/shaoyouvip/uptime/'
+      url: 'https://github.com/fangovo/uptime'
     },
     {
-      text: '博客',
-      url: 'https://blog.aizrf.COM/'
+      text: 'tg',
+      url: 'https://t.me/fangqaq'
     },
   ],
 };
+
 
